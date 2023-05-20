@@ -20,6 +20,10 @@ The testing is going on different systems.
 5. Hit enter.<br>
 6. After sometimes, the ZIP file password is cracked.
 
+# Includes
+There is <b>password_list.txt</b> file which contain some passwords to decrypt ZIP files.<br>
+We can add more passwords in this file or create your own password list according to your need.
+
 <h1>Key Features</h1>
 <b>1. It works on any passwordlist.</b><br>
 <b>2. When it found the password, then it automatically open the ZIP file.</b><br>
